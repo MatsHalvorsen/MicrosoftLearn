@@ -1,0 +1,14 @@
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/bin/Debug/net8.0/callMethods
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/bin/Debug/net8.0/callMethods.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/bin/Debug/net8.0/callMethods.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/bin/Debug/net8.0/callMethods.dll
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/bin/Debug/net8.0/callMethods.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/callMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/callMethods.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/callMethods.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/callMethods.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/callMethods.dll
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/refint/callMethods.dll
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/callMethods.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/callMethods.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/ref/callMethods.dll
