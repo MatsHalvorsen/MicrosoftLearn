@@ -1,6 +1,22 @@
-﻿int firstValue = 500;
-int secondValue = 600;
-int largerValue;
+﻿/*
+    converts the string to char array and reverse the message.
+    it counts the o's and display the new message
+*/
+string str = "The quick brown fox jumps over the lazy dog.";
 
-largerValue = System.Math.Max(firstValue, secondValue);
-Console.WriteLine($"The largest value is: {largerValue}");
+char[] charMessage = str.ToCharArray();
+Array.Reverse(charMessage);
+
+int x = 0;
+
+foreach (char i in charMessage) 
+{ 
+    if (i == 'o') 
+    {
+        x++; 
+    } 
+}
+string new_message = new String(charMessage);
+
+Console.WriteLine(new_message);
+Console.WriteLine($"'o' appears {x} times.");

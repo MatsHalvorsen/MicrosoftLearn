@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/bin/Debug/net8.0/Boolean
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/bin/Debug/net8.0/Boolean.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/bin/Debug/net8.0/Boolean.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/bin/Debug/net8.0/Boolean.dll
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/bin/Debug/net8.0/Boolean.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/obj/Debug/net8.0/Boolean.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/obj/Debug/net8.0/Boolean.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/obj/Debug/net8.0/Boolean.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/obj/Debug/net8.0/Boolean.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/obj/Debug/net8.0/Boolean.sourcelink.json
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/obj/Debug/net8.0/Boolean.dll
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/obj/Debug/net8.0/refint/Boolean.dll
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/obj/Debug/net8.0/Boolean.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/obj/Debug/net8.0/Boolean.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/.CsharpProjects/Boolean/obj/Debug/net8.0/ref/Boolean.dll

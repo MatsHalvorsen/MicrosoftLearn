@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/bin/Debug/net8.0/Scope
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/bin/Debug/net8.0/Scope.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/bin/Debug/net8.0/Scope.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/bin/Debug/net8.0/Scope.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/bin/Debug/net8.0/Scope.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/obj/Debug/net8.0/Scope.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/obj/Debug/net8.0/Scope.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/obj/Debug/net8.0/Scope.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/obj/Debug/net8.0/Scope.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/obj/Debug/net8.0/Scope.sourcelink.json
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/obj/Debug/net8.0/Scope.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/obj/Debug/net8.0/refint/Scope.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/obj/Debug/net8.0/Scope.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/obj/Debug/net8.0/Scope.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CshapProjects/Scope/obj/Debug/net8.0/ref/Scope.dll

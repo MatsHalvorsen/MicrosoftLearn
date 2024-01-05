@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/bin/Debug/net8.0/arrays
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/bin/Debug/net8.0/arrays.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/bin/Debug/net8.0/arrays.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/bin/Debug/net8.0/arrays.dll
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/bin/Debug/net8.0/arrays.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/obj/Debug/net8.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/obj/Debug/net8.0/arrays.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/obj/Debug/net8.0/arrays.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/obj/Debug/net8.0/arrays.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/obj/Debug/net8.0/arrays.sourcelink.json
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/obj/Debug/net8.0/arrays.dll
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/obj/Debug/net8.0/refint/arrays.dll
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/obj/Debug/net8.0/arrays.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/obj/Debug/net8.0/arrays.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/arrays/obj/Debug/net8.0/ref/arrays.dll

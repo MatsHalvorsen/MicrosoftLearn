@@ -12,3 +12,4 @@
 /Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/callMethods.pdb
 /Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/callMethods.genruntimeconfig.cache
 /Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/ref/callMethods.dll
+/Users/halvorsen/Documents/MicrosoftLearn/callMethods/obj/Debug/net8.0/callMethods.sourcelink.json
