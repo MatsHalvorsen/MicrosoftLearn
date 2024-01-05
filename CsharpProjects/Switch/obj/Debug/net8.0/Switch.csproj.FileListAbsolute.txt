@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/obj/Debug/net8.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/obj/Debug/net8.0/Switch.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/obj/Debug/net8.0/Switch.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/obj/Debug/net8.0/Switch.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/obj/Debug/net8.0/Switch.sourcelink.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/bin/Debug/net8.0/Switch
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/bin/Debug/net8.0/Switch.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/bin/Debug/net8.0/Switch.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/bin/Debug/net8.0/Switch.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/bin/Debug/net8.0/Switch.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/obj/Debug/net8.0/Switch.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/obj/Debug/net8.0/refint/Switch.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/obj/Debug/net8.0/Switch.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/obj/Debug/net8.0/Switch.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Switch/obj/Debug/net8.0/ref/Switch.dll
