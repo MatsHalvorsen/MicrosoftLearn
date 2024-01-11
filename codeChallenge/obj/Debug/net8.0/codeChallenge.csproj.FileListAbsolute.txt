@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/obj/Debug/net8.0/codeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/obj/Debug/net8.0/codeChallenge.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/obj/Debug/net8.0/codeChallenge.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/obj/Debug/net8.0/codeChallenge.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/obj/Debug/net8.0/codeChallenge.sourcelink.json
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/bin/Debug/net8.0/codeChallenge
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/bin/Debug/net8.0/codeChallenge.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/bin/Debug/net8.0/codeChallenge.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/bin/Debug/net8.0/codeChallenge.dll
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/bin/Debug/net8.0/codeChallenge.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/obj/Debug/net8.0/codeChallenge.dll
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/obj/Debug/net8.0/refint/codeChallenge.dll
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/obj/Debug/net8.0/codeChallenge.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/obj/Debug/net8.0/codeChallenge.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/obj/Debug/net8.0/ref/codeChallenge.dll
