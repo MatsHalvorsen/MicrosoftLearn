@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/obj/Debug/net8.0/castingTechniques.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/obj/Debug/net8.0/castingTechniques.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/obj/Debug/net8.0/castingTechniques.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/obj/Debug/net8.0/castingTechniques.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/obj/Debug/net8.0/castingTechniques.sourcelink.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/bin/Debug/net8.0/castingTechniques
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/bin/Debug/net8.0/castingTechniques.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/bin/Debug/net8.0/castingTechniques.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/bin/Debug/net8.0/castingTechniques.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/bin/Debug/net8.0/castingTechniques.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/obj/Debug/net8.0/castingTechniques.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/obj/Debug/net8.0/refint/castingTechniques.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/obj/Debug/net8.0/castingTechniques.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/obj/Debug/net8.0/castingTechniques.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/castingTechniques/obj/Debug/net8.0/ref/castingTechniques.dll

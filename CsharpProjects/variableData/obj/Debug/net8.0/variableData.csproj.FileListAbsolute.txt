@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/bin/Debug/net8.0/variableData
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/bin/Debug/net8.0/variableData.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/bin/Debug/net8.0/variableData.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/bin/Debug/net8.0/variableData.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/bin/Debug/net8.0/variableData.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/obj/Debug/net8.0/variableData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/obj/Debug/net8.0/variableData.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/obj/Debug/net8.0/variableData.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/obj/Debug/net8.0/variableData.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/obj/Debug/net8.0/variableData.sourcelink.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/obj/Debug/net8.0/variableData.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/obj/Debug/net8.0/refint/variableData.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/obj/Debug/net8.0/variableData.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/obj/Debug/net8.0/variableData.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/variableData/obj/Debug/net8.0/ref/variableData.dll

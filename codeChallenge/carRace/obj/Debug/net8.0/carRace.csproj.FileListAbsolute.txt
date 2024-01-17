@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/bin/Debug/net8.0/carRace
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/bin/Debug/net8.0/carRace.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/bin/Debug/net8.0/carRace.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/bin/Debug/net8.0/carRace.dll
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/bin/Debug/net8.0/carRace.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/obj/Debug/net8.0/carRace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/obj/Debug/net8.0/carRace.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/obj/Debug/net8.0/carRace.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/obj/Debug/net8.0/carRace.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/obj/Debug/net8.0/carRace.sourcelink.json
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/obj/Debug/net8.0/carRace.dll
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/obj/Debug/net8.0/refint/carRace.dll
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/obj/Debug/net8.0/carRace.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/obj/Debug/net8.0/carRace.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/codeChallenge/carRace/obj/Debug/net8.0/ref/carRace.dll

@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/obj/Debug/net8.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/obj/Debug/net8.0/Classes.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/obj/Debug/net8.0/Classes.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/obj/Debug/net8.0/Classes.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/obj/Debug/net8.0/Classes.sourcelink.json
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/bin/Debug/net8.0/Classes
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/bin/Debug/net8.0/Classes.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/bin/Debug/net8.0/Classes.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/bin/Debug/net8.0/Classes.dll
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/bin/Debug/net8.0/Classes.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/obj/Debug/net8.0/Classes.dll
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/obj/Debug/net8.0/refint/Classes.dll
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/obj/Debug/net8.0/Classes.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/obj/Debug/net8.0/Classes.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/-/CsharpProjects/OOP/OOP/Classes/obj/Debug/net8.0/ref/Classes.dll
