@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/bin/Debug/net8.0/ClassmembersUsingOpjects
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/bin/Debug/net8.0/ClassmembersUsingOpjects.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/bin/Debug/net8.0/ClassmembersUsingOpjects.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/bin/Debug/net8.0/ClassmembersUsingOpjects.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/bin/Debug/net8.0/ClassmembersUsingOpjects.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/obj/Debug/net8.0/ClassmembersUsingOpjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/obj/Debug/net8.0/ClassmembersUsingOpjects.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/obj/Debug/net8.0/ClassmembersUsingOpjects.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/obj/Debug/net8.0/ClassmembersUsingOpjects.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/obj/Debug/net8.0/ClassmembersUsingOpjects.sourcelink.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/obj/Debug/net8.0/ClassmembersUsingOpjects.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/obj/Debug/net8.0/refint/ClassmembersUsingOpjects.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/obj/Debug/net8.0/ClassmembersUsingOpjects.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/obj/Debug/net8.0/ClassmembersUsingOpjects.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/ClassmembersUsingOpjects/obj/Debug/net8.0/ref/ClassmembersUsingOpjects.dll
