@@ -25,7 +25,13 @@ class Dog
         //access method of the dog
         bulldog.bark();
 
-        Console.ReadLine();
+        Dog CockerSpaniel = new Dog();
+
+        CockerSpaniel.breed = "Cocker Spaniel";
+        Console.WriteLine(CockerSpaniel.breed);
+
+        CockerSpaniel.bark();
+
     }
 
 

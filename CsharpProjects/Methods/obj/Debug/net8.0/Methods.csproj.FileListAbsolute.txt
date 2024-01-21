@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/bin/Debug/net8.0/Methods
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/bin/Debug/net8.0/Methods.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/bin/Debug/net8.0/Methods.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/bin/Debug/net8.0/Methods.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/bin/Debug/net8.0/Methods.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/obj/Debug/net8.0/Methods.sourcelink.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/obj/Debug/net8.0/Methods.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/obj/Debug/net8.0/refint/Methods.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/obj/Debug/net8.0/Methods.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/obj/Debug/net8.0/Methods.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/Methods/obj/Debug/net8.0/ref/Methods.dll

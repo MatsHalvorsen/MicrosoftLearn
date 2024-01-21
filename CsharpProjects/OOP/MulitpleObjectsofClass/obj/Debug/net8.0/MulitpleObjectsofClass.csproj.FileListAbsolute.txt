@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/bin/Debug/net8.0/MulitpleObjectsofClass
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/bin/Debug/net8.0/MulitpleObjectsofClass.deps.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/bin/Debug/net8.0/MulitpleObjectsofClass.runtimeconfig.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/bin/Debug/net8.0/MulitpleObjectsofClass.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/bin/Debug/net8.0/MulitpleObjectsofClass.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/obj/Debug/net8.0/MulitpleObjectsofClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/obj/Debug/net8.0/MulitpleObjectsofClass.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/obj/Debug/net8.0/MulitpleObjectsofClass.AssemblyInfo.cs
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/obj/Debug/net8.0/MulitpleObjectsofClass.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/obj/Debug/net8.0/MulitpleObjectsofClass.sourcelink.json
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/obj/Debug/net8.0/MulitpleObjectsofClass.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/obj/Debug/net8.0/refint/MulitpleObjectsofClass.dll
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/obj/Debug/net8.0/MulitpleObjectsofClass.pdb
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/obj/Debug/net8.0/MulitpleObjectsofClass.genruntimeconfig.cache
+/Users/halvorsen/Documents/MicrosoftLearn/CsharpProjects/OOP/MulitpleObjectsofClass/obj/Debug/net8.0/ref/MulitpleObjectsofClass.dll
